@@ -1,0 +1,11 @@
+Front-end software engineering
+
+- HTML
+- CSS
+-Javascript
+
+Back-end software engineering
+
+-python
+-mysql
+-domain name
